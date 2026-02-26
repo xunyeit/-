@@ -3,6 +3,10 @@
 一、产品概述
 软件功能工作流程：围绕机场代客泊车，医院代客泊车，为服务代替客户泊车预约下单的一个小程序，分为用户端和泊车师傅端，两个手机端口。
 <img width="885" height="496" alt="image" src="https://github.com/user-attachments/assets/35b7211e-fe8f-46f3-a5ec-5ee4f2412d29" />
+<img width="888" height="500" alt="image" src="https://github.com/user-attachments/assets/e371b381-ca2d-4e37-acc5-fe41039b7caf" />
+<img width="888" height="497" alt="image" src="https://github.com/user-attachments/assets/89abb538-570e-4ae7-bd18-7e1b21f38617" />
+<img width="887" height="499" alt="image" src="https://github.com/user-attachments/assets/10391314-a61b-4634-902b-58e8c6ad7021" />
+<img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/8b397cf1-90a6-48ac-9778-e2f76351d510" />
 
 
 二、所有端口
@@ -166,3 +170,8 @@ Java1.8
 Mysql 5.7
 Redis 6.2.8
 阿里云 OSS – 可更换其它。
+
+公司官网：https://www.xunyeit.com
+案例库：https://cms.xunyeit.com/
+交流微信：<img width="670" height="769" alt="image" src="https://github.com/user-attachments/assets/ff1d8cd2-490b-46ae-9ab1-8c75226699f8" />
+
